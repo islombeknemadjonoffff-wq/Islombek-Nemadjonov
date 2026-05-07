@@ -27,5 +27,3 @@ Men inson tillarini (Koreys tili) o'rganishni tugatdim, endi kompyuterlar bilan 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Islombek-Nemadjonov)
 
 
-![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Islombek%20Nemadjonov&fontSize=50)
-
