@@ -26,4 +26,4 @@ Men inson tillarini (Koreys tili) o'rganishni tugatdim, endi kompyuterlar bilan 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Islombek-Nemadjonov)
 
-
+![Sizning GitHub statistikangiz](https://github-readme-stats.vercel.app/api?Islombek-Nemadjonov=Islombek-Nemadjonov&show_icons=true&theme=radical)
