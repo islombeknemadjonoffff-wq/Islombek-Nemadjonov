@@ -21,3 +21,4 @@ Hozirda IT olamining qiziqarli yo'llarini kashf qilyapman. Mening yo'nalishim:
 Men inson tillarini (Koreys tili) o'rganishni tugatdim, endi kompyuterlar bilan tillashishni o'rganyapman! Kod ham xuddi til kabi — o'z grammatikasi va mantiqiga ega.
 
 📫 **Men bilan bog'lanish:** Telegram: @Nmtjnv0715
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FOYDALANUVCHI_NOMINGIZ.FOYDALANUVCHI_NOMINGIZ)
